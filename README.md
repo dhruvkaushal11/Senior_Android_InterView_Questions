@@ -1,4 +1,4 @@
-# Senior_Android_InterView_Questions
+# Senior Android InterView Questions 2022 | For Product Companies
 Popular Interview Questions on Android. Feel free to create a PR.
 
 <b>1.  If we have Observer Design Patern then why LiveData is usefull?</b><br>
